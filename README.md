@@ -212,7 +212,7 @@ Este proyecto está bajo la Licencia ISC. Ver el archivo `LICENSE` para más det
 
 **JEB$DEV de Javier Berchtold**
 
-- **Desarrollador Full Stack**
+- **Desarrollador Front End**
 - **Especialista en Frontend y UX/UI**
 - **Experto en metodologías CSS modernas**
 - **Apasionado por la optimización y rendimiento web**
