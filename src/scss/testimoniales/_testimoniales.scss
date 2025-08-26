@@ -1,0 +1,18 @@
+@use '../base/variables' as v;
+@use '../base/mixins' as m;
+
+
+.testimoniales{
+    // background-color: gray;
+    padding: v.$separacion 0;
+
+    &__heading{
+        font-weight: 900;
+    }
+    @include m.tablet { 
+        &__grid{
+            @include m.grid(5, 2rem)
+        }
+        
+    }
+}
