@@ -10,18 +10,17 @@
 
 ## 🌐 Demo en Vivo
 
-**Visita el sitio web:** [cafeteria.app](https://cafeteria2025jebdev.netlify.app/)
+**Visita el sitio web:** [AppComida](https://appcomida-2025.netlify.app/)
 
 
 ## 📸 Capturas de Pantalla
 
-![Vista Principal](build/img/cafeteria.png)
-![Página del Menú](build/img/cafeteria2.png)
-![Galería de Imágenes](build/img/cafeteria3.png)
-![Página Nosotros](build/img/cafeteria4.png)
-![Proceso del Café](build/img/cafeteria5.png)
-![Formulario de Contacto](build/img/cafeteria6.png)
-![Vista Móvil](build/img/cafeteria7.png)
+![Vista Principal](build/img/appComida4.png)
+![Vista Principal](build/img/appComida5.png)
+![Vista Principal](build/img/appComida6.png)
+![Vista Móvil](build/img/appComida.png)
+![Vista Móvil](build/img/appComida2.png)
+![Vista Móvil](build/img/appComida3.png)
 
 ### ✨ Características Principales
 
@@ -219,9 +218,8 @@ Este proyecto está bajo la Licencia ISC. Ver el archivo `LICENSE` para más det
 - **Apasionado por la optimización y rendimiento web**
 
 ### Contacto
-- **GitHub**: [@tu-usuario](https://github.com/tu-usuario)
-- **Portfolio**: [javierberchtold.dev](https://javierberchtold.dev)
-- **Email**: contacto@javierberchtold.dev
+- **GitHub**: [JEB$DEV](https://github.com/JEB76-22?tab=repositories)
+- **Email**: j.e.b.inter@gmail.com
 
 ## 🙏 Agradecimientos
 
